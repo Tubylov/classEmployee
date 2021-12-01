@@ -1,0 +1,13 @@
+/Users/ilya/Projects/Komos/Komos/obj/Debug/netcoreapp3.1/Komos.csproj.AssemblyReference.cache
+/Users/ilya/Projects/Komos/Komos/obj/Debug/netcoreapp3.1/Komos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilya/Projects/Komos/Komos/obj/Debug/netcoreapp3.1/Komos.AssemblyInfoInputs.cache
+/Users/ilya/Projects/Komos/Komos/obj/Debug/netcoreapp3.1/Komos.AssemblyInfo.cs
+/Users/ilya/Projects/Komos/Komos/obj/Debug/netcoreapp3.1/Komos.csproj.CoreCompileInputs.cache
+/Users/ilya/Projects/Komos/Komos/bin/Debug/netcoreapp3.1/Komos.deps.json
+/Users/ilya/Projects/Komos/Komos/bin/Debug/netcoreapp3.1/Komos.runtimeconfig.json
+/Users/ilya/Projects/Komos/Komos/bin/Debug/netcoreapp3.1/Komos.runtimeconfig.dev.json
+/Users/ilya/Projects/Komos/Komos/bin/Debug/netcoreapp3.1/Komos.dll
+/Users/ilya/Projects/Komos/Komos/bin/Debug/netcoreapp3.1/Komos.pdb
+/Users/ilya/Projects/Komos/Komos/obj/Debug/netcoreapp3.1/Komos.dll
+/Users/ilya/Projects/Komos/Komos/obj/Debug/netcoreapp3.1/Komos.pdb
+/Users/ilya/Projects/Komos/Komos/obj/Debug/netcoreapp3.1/Komos.genruntimeconfig.cache
